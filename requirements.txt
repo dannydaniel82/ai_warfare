@@ -1,0 +1,9 @@
+# for webrtvad
+
+pip install webrtcvad pyaudio numpy
+"""
+brew install portaudio
+pip install pyaudio
+"""
+
+
