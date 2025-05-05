@@ -1,9 +1,13 @@
-# for webrtvad
+# stt_modules
 
+# for webrtvad
 pip install webrtcvad pyaudio numpy
 """
 brew install portaudio
 pip install pyaudio
 """
+
+# for whisper
+pip install faster-whisper
 
 
